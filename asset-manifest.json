@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/FitApp/static/css/main.0f839259.chunk.css",
+    "main.js": "/FitApp/static/js/main.5ea2b3df.chunk.js",
+    "main.js.map": "/FitApp/static/js/main.5ea2b3df.chunk.js.map",
+    "runtime-main.js": "/FitApp/static/js/runtime-main.951fa647.js",
+    "runtime-main.js.map": "/FitApp/static/js/runtime-main.951fa647.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/FitApp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.68a1f6d6.chunk.js": "/FitApp/static/js/2.68a1f6d6.chunk.js",
+    "static/js/2.68a1f6d6.chunk.js.map": "/FitApp/static/js/2.68a1f6d6.chunk.js.map",
+    "index.html": "/FitApp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/FitApp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.0f839259.chunk.css.map": "/FitApp/static/css/main.0f839259.chunk.css.map",
+    "static/js/2.68a1f6d6.chunk.js.LICENSE.txt": "/FitApp/static/js/2.68a1f6d6.chunk.js.LICENSE.txt",
+    "static/media/Activity.2d9e5b07.svg": "/FitApp/static/media/Activity.2d9e5b07.svg",
+    "static/media/Barbel.9d2296bc.jpg": "/FitApp/static/media/Barbel.9d2296bc.jpg",
+    "static/media/Elastic.cb5cdd97.jpg": "/FitApp/static/media/Elastic.cb5cdd97.jpg",
+    "static/media/Kettle.ebb0ef81.jpg": "/FitApp/static/media/Kettle.ebb0ef81.jpg",
+    "static/media/Medecineball.0d28b8ba.jpg": "/FitApp/static/media/Medecineball.0d28b8ba.jpg",
+    "static/media/Trademil.ba9e436f.jpg": "/FitApp/static/media/Trademil.ba9e436f.jpg",
+    "static/media/Wheights.02788788.jpg": "/FitApp/static/media/Wheights.02788788.jpg",
+    "static/media/health.e1125036.svg": "/FitApp/static/media/health.e1125036.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951fa647.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.68a1f6d6.chunk.js",
+    "static/css/main.0f839259.chunk.css",
+    "static/js/main.5ea2b3df.chunk.js"
+  ]
+}
